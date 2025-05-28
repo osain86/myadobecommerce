@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://github.com/osain86/myadobecommerce/
+    type: markup
+
+folders:
+  /products/: /products/default
